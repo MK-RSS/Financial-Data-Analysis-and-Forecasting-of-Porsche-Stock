@@ -1,7 +1,6 @@
 # Financial-Data-Analysis-and-Forecasting-of-Porsche-Stock
 Financial Data Analysis &amp; Forecasting of Porsche Stock using Python and Power BI. This project performs data cleaning, exploratory data analysis (EDA), moving average analysis, correlation analysis, and 30-day stock price forecasting using Exponential Smoothing. An interactive dashboard provides KPIs, trends, and business insights.
 # 📈 Financial Data Analysis & Forecasting of Porsche Stock
-
 ## 📌 Project Overview
 
 This project analyzes historical Porsche stock market data using Python and Power BI to uncover market trends, evaluate stock performance, and forecast future closing prices. The project combines data preprocessing, exploratory data analysis (EDA), statistical forecasting, and interactive dashboard development to provide meaningful business insights.
