@@ -132,6 +132,7 @@ Financial-Data-Analysis-Porsche-Stock/
 ## 📷 Dashboard Preview
 
 > Add your dashboard screenshot here.
+<img width="522" height="476" alt="project3img" src="https://github.com/user-attachments/assets/1b2e5c28-d697-4b3a-8c8f-7e77bfa4a1b8" />
 
 ```markdown
 ![Dashboard](Dashboard.png)
